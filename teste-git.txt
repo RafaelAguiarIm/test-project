@@ -23,4 +23,8 @@ Caminhos diferentes para seguir no versionamento
 Master - branch principal
 
 git branch - verifica quais branchs esrtão disponiveis 
+<<<<<<< HEAD
 git branch checkout "nome da branch - muda para a branch escolida
+=======
+git checkout "nome da branch" - muda para a branch escolida
+>>>>>>> staging
