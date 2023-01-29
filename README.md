@@ -4,8 +4,9 @@ Apenas um teste dos comandos do Git
 
 Revisando comandos do git
 
-<h1> Comando Báscios do Git </h1>
-git --help - Ajuda
+<h1> Comando Básicos do Git </h1>
+git --help - Ajuda 
+
 git init  - criação da pasta.git
 git add "nome do arquivo" - Adiciona arquivo um a um
 Git add . - adiciona todos os arquivops de uma vez
