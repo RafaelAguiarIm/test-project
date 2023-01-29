@@ -21,7 +21,7 @@ git config --global user.email "email"
 git config --global user.name "nome"
 
 
-<h3> Enviando a primeira versão dos codigos para o servidor </3>
+<h3> Enviando a primeira versão dos codigos para o servidor </h3>
 git remote add origin link do repositorio - comando para vincular o projeto da máquina com o do github
 
 git push - empurrar o arquivo para o github (Só funciona se o branch estiver definido
