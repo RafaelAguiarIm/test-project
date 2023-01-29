@@ -1,0 +1,7 @@
+Sequencia para trabalhar com as branch
+git pull da branch principal
+gerar uma nova branch a partir da branch principal
+trabalhar e adcionar novas funcionalidades na nova branch que criou
+finalizar o trabalho na branch temporária
+Mergiar o código da branch temporaria com a branch principal (Depois de testado)
+Git push da branch principal
